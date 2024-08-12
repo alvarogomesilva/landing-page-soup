@@ -1,5 +1,5 @@
-# 🏆 Responsive Travel Website
-- Responsive Travel Website Design Using HTML CSS & JavaScript
+# 🏆 Responsive Soup Website
+- Responsive Travel Soup Design Using HTML CSS & JavaScript
 
 ## 🛠️ Tecnologias
 <p align="center">
